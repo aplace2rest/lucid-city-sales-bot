@@ -1,0 +1,16 @@
+
+{
+  "name": "lucid-city-sales-bot",
+  "version": "1.0.0",
+  "description": "Discord bot for Lucid City RP to track sales and commissions",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^8.0.0",
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  }
+}
